@@ -1,1 +1,2 @@
-# aws-access001
+# aws_access
+use this script setup aws cli access with iam role
